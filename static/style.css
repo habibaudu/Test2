@@ -1,0 +1,13 @@
+#nav {
+    float: right;
+    color:red;
+    }
+
+input {
+    display: block;
+    background-color: orange;
+      }
+
+body{
+    background-color: orange;
+}
